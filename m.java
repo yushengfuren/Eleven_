@@ -1,6 +1,6 @@
 public class m{
     public static void main(String[] args){
-        System.out.println("E");
+        System.out.println("lzx2");
 
     }
 }
